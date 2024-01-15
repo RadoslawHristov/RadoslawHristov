@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radoslav Hristov</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
-<img aling="right" width="400" alt="coding image" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg"/>
+<img aling="right" width="auto" alt="coding image" src="https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radoslawhristov&label=Profile%20views&color=0e75b6&style=flat" alt="radoslawhristov" /> </p>
 
